@@ -1,5 +1,5 @@
 ---
-name: react-compound-pattern
+name: compound-pattern
 description: Teaches the compound component pattern for shared implicit state. Use when building related components like tabs, accordions, or dropdowns that need to coordinate without explicit prop passing.
 paths:
   - "**/*.tsx"
@@ -9,8 +9,8 @@ metadata:
   author: patterns.dev
   version: "1.1"
 related_skills:
-  - "react-hooks-pattern"
-  - "react-hoc-pattern"
+  - "hooks-pattern"
+  - "hoc-pattern"
 ---
 
 # Compound Pattern

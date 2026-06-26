@@ -1,5 +1,5 @@
 ---
-name: react-hooks-pattern
+name: hooks-pattern
 description: Teaches React Hooks for reusing stateful logic across components. Use when extracting shared behavior like form handling, subscriptions, or side effects into reusable custom hooks.
 context: fork
 allowed-tools: Read, Grep, Glob
@@ -11,8 +11,8 @@ metadata:
   author: patterns.dev
   version: "1.1"
 related_skills:
-  - "react-hoc-pattern"
-  - "react-render-props-pattern"
+  - "hoc-pattern"
+  - "render-props-pattern"
 ---
 
 # Hooks Pattern
